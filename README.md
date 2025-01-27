@@ -13,7 +13,7 @@ Optical character recognition (OCR) is a subset of computer vision that deals wi
 
 1. Clone the repository:
 
-   ```bash
+   ```plaintext
    git clone https://github.com/noahrubin989/OCR-Analysis.git
    cd OCR-Analysis
    ```
@@ -27,7 +27,7 @@ Optical character recognition (OCR) is a subset of computer vision that deals wi
 
 3. Place the images you want to analyse in the `images` directory (create it if it doesn't exist):
 
-   ```bash
+   ```plaintext
    mkdir images
    ```
 

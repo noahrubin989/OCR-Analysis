@@ -72,6 +72,3 @@ The application overlays detected text and bounding polygons on the image. Here'
 
 - **FileNotFoundError:**
   Ensure that the `images` directory exists and contains valid image files.
-
-- **Missing dependencies:**
-  Ensure all dependencies are installed using the `requirements.txt` file.

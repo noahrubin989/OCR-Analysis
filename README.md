@@ -1,6 +1,6 @@
 # Azure AI Vision OCR Project
 
-Optical character recognition (OCR) is a subset of computer vision that deals with reading text in images and documents. Here, the Azure AI Vision Python SDK allows us to implement this task.
+Optical Character Recognition (OCR) is a subset of computer vision that deals with reading text in images and documents. Here, the Azure AI Vision Python SDK allows us to implement this task.
 
 ## Features
 

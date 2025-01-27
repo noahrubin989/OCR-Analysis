@@ -72,3 +72,7 @@ The application overlays detected text and bounding polygons on the image. Here'
 
 - **FileNotFoundError:**
   Ensure that the `images` directory exists and contains valid image files.
+
+
+## Resources
+[Read Text in images and documents with the Azure AI Vision Service](https://learn.microsoft.com/en-gb/training/modules/read-text-images-documents-with-computer-vision-service/1-introduction)

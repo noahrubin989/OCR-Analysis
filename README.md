@@ -52,7 +52,6 @@ Optical Character Recognition (OCR) is a subset of computer vision that deals wi
 ├── images/                   # Input images for OCR
 ├── output_images/            # Annotated images with detected text
 ├── .env                      # Environment variables for Azure credentials
-├── requirements.txt          # Python dependencies
 ├── ocr_analysis.py           # Main application script
 ├── README.md                 # Project documentation
 ```

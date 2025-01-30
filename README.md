@@ -15,7 +15,7 @@ Optical Character Recognition (OCR) is a subset of computer vision that deals wi
 
    ```plaintext
    git clone https://github.com/noahrubin989/OCR-Analysis.git
-   cd OCR-Analysis
+   cd 'OCR-Analysis'
    ```
 
 2. Create a `.env` file in the project root directory and add your Azure credentials:
